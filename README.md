@@ -12,6 +12,12 @@ A mobile start wants to estimate its mobile prices based on past sales data from
 
 Data source: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
+### Content:
+A mobile company, wants to give a tough fight to big companies like Apple,Samsung etc.
+
+They do not know how to estimate the prices for mobile phone in their company. To solve this problem the company collects sales data of mobile phones from various companies.
+
+They want to find out if some relationship exist between features of a mobile phone(eg:- RAM,Internal Memory etc) and its selling price.
 
 ## Methods
 - The dataset used for model building contained 2000 rows of 21 columns. 
