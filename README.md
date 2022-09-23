@@ -1,4 +1,4 @@
-# E-Commerce Customer Segmentation 
+# Mobile Price Classification 
 
 ## Classification Analysis
 
@@ -6,17 +6,17 @@
 
 ### Business problem:
 
-An international e-commerce company based wants to discover key insights from their customer database.
+A mobile start wants to estimate its mobile prices based on past sales data from other mobile companies. 
 
 ### Data:
 
-Data source: Kaggle.com (E-Commerce Shipping Data Product Shipment Delivered on time or not? To Meet E-Commerce Customer
+Data source: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
 
 ## Methods
-- The dataset used for model building contained 10999 rows of 12 columns.
+- The dataset used for model building contained 2000 rows of 21 columns. 
 
-- The methods used are data cleaning, visualization graphs, preprocessing, imputing(simple imputer), and various classification methods in python. Specifically logistic regression, K-Nearest neighbors, decision tree classification, and random forest.
+- The methods used are data cleaning, visualization graphs, preprocessing, imputing(simple imputer), and various classification methods in python. Specifically logistic regression, K-Nearest neighbors, Feature engineering(PCA) and Confusion metrics
 
 
 ## Results
