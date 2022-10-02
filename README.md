@@ -31,11 +31,14 @@ They want to find out if some relationship exist between features of a mobile ph
 
 
 #### Visual 1 Title
+
 ![Alt text]()
 
 > Sentence about visualization.
 
 #### Visual 2 Title
+
+<img width="623" alt="Screen Shot 2022-10-02 at 4 04 43 PM" src="https://user-images.githubusercontent.com/101212659/193474887-5c40bd9b-eaa7-45b5-acc9-c1907c153401.png">
 
 ## Model
 
