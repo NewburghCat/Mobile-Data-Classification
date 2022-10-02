@@ -31,7 +31,7 @@ They want to find out if some relationship exist between features of a mobile ph
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+![Bar Plot](Screen Shot 2022-10-02 at 4.05.03 PM.png)
 
 > Sentence about visualization.
 
