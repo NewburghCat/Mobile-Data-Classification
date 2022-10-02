@@ -32,7 +32,7 @@ They want to find out if some relationship exist between features of a mobile ph
 
 #### Visual 1 Title
 
-![Alt text]()
+![Alt text](https://user-images.githubusercontent.com/101212659/193474641-05597fa1-03ea-460e-922f-d67be8afef79.png)
 
 > Sentence about visualization.
 
