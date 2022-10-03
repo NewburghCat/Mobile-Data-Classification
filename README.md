@@ -42,7 +42,7 @@ They want to find out if some relationship exist between features of a mobile ph
 
 ## Model
 
-Describe your final model
+The final model chosen is the decision tree classifier without PCA. The mobile price range for all new companies is critical to their branding, and quality matters to consumers. The stakeholder's interest in the ram speed with correlation to the price range is noteworthy. It turns out that the better ram speed in a phone equates to better, faster data. In addition to switching between apps(gadgetsnow.com). I chose the accuracy of the model to be the deciding factor for the stakeholders. Out of the logistic regression model, KNN means model and the decision tree model. 
 
 Report the most important metrics
 
