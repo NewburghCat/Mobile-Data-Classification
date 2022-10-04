@@ -50,13 +50,11 @@ Refer to the metrics to describe how well the model would solve the business pro
 
 ## Recommendations:
 
-More of your own text here
-
+The final model selected is the decision tree classifier. It performed the best out of both KNN means and logistic regression with PCA. The poorest model was the knn means with a testing accuracy of 0.5 and the f1 score of 0.6.  The logistic regression model was not for of with an accuracy score of 0.6. I mention the accuracy score because the customer's main concern is to decide if this model could predict a good price range for their phones.  The decision tree does perform the best with an accuracy score of 0.7 but based on the limited info shared. This model would not be recommended. For instance, phone prices vary from year to year and there is no known date or year feature given to accurately determine if this model would be of any benefit. 
 
 ## Limitations & Next Steps
 
-More of your own text here
-
+Lack of information for data source. 
 
 ### For further information
 
