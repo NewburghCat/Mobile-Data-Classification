@@ -13,6 +13,7 @@ A mobile start wants to estimate its mobile prices based on past sales data from
 Data source: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
 ### Content:
+
 A mobile company, wants to give a tough fight to big companies like Apple,Samsung etc.
 
 They do not know how to estimate the prices for mobile phone in their company. To solve this problem the company collects sales data of mobile phones from various companies.
@@ -20,10 +21,55 @@ They do not know how to estimate the prices for mobile phone in their company. T
 They want to find out if some relationship exist between features of a mobile phone(eg:- RAM,Internal Memory etc) and its selling price.
 
 ## Methods
+
 - The dataset used for model building contained 2000 rows of 21 columns. 
 
 - The methods used are data cleaning, visualization graphs, preprocessing, imputing(simple imputer), and various classification methods in python. Specifically logistic regression, K-Nearest neighbors, Feature engineering(PCA) and Confusion metrics
 
+
+## Data Library 
+
+1. ID: ID Number of Customers.
+
+2. Battery Power: Total energy a battery can store in one time measured in mAh.
+
+3. Blue: Has bluetooth or not.
+
+4. Clock Speed: Speed at which microprocessor executes instructions.
+
+5. Dual Sim: Has dual sim support or not.
+
+6. FC: Front Camera mega pixels
+
+7. Four_G: Has 4G or not
+
+8. Int Memory: Internal Memory in Gigabytes
+
+9. M_DEP: Mobile Depth in CM
+
+10. Mobile WT: Weight of mobile phone
+
+11. N_Cores: Number of cores of processor
+
+12. PC: Primary Camera mega pixels
+
+13. PX_Height: Pixel Resolution Height
+
+14. PX_Width: Pixel Resolution Width
+
+15. RAM: Random Access Memory in Megabytes
+
+16. SC_H: Screen Height of mobile in CM
+
+17. SC_W: Screen Width of mobile in CM
+
+18. Talk_Time: Longest time that a single battery charge will last when you are
+
+19. Three_G: Has 3G or not
+
+20. Wifi: Has wifi or not
+
+21. Price Range 
 
 ## Results
 
