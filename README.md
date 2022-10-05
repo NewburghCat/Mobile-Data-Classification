@@ -76,13 +76,13 @@ They want to find out if some relationship exist between features of a mobile ph
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
+#### Price Range vs Wifi
 
-![Alt text](https://user-images.githubusercontent.com/101212659/193474641-05597fa1-03ea-460e-922f-d67be8afef79.png)
+<img width="624" alt="Screen Shot 2022-10-04 at 3 59 43 PM" src="https://user-images.githubusercontent.com/101212659/193960145-984cb2d1-3b20-4397-add5-af1c97d2424e.png">
 
 > Sentence about visualization.
 
-#### Visual 2 Title
+#### Price Range vs Ram Speed
 
 <img width="623" alt="Screen Shot 2022-10-02 at 4 04 43 PM" src="https://user-images.githubusercontent.com/101212659/193474887-5c40bd9b-eaa7-45b5-acc9-c1907c153401.png">
 
