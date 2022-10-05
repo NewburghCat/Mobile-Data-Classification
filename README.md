@@ -101,9 +101,8 @@ The final model selected is the decision tree classifier. It performed the best 
 
 ## Limitations & Next Steps
 
-Lack of information for data source. 
+Lack of information from data source. 
 
 ### For further information
 
-
-For any additional questions, please contact **email**
+For any additional questions, please contact **jodyann.bradford@gmail.com**
