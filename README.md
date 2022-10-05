@@ -75,16 +75,17 @@ They want to find out if some relationship exist between features of a mobile ph
 
 ### Here are examples of how to embed images from your sub-folder
 
-
 #### Price Range vs Wifi
 
 <img width="624" alt="Screen Shot 2022-10-04 at 3 59 43 PM" src="https://user-images.githubusercontent.com/101212659/193960145-984cb2d1-3b20-4397-add5-af1c97d2424e.png">
 
-> Sentence about visualization.
+> The price range increase while the wifi column stays the same. This shows wifi does not have a impact on the price range as the ram speed does in the next graph. 
 
 #### Price Range vs Ram Speed
 
 <img width="623" alt="Screen Shot 2022-10-02 at 4 04 43 PM" src="https://user-images.githubusercontent.com/101212659/193474887-5c40bd9b-eaa7-45b5-acc9-c1907c153401.png">
+
+> The higher the Ram Speed the higher the Price Range. And, phones with a negative price range had less ram speed. 
 
 ## Model
 
